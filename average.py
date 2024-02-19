@@ -36,4 +36,4 @@ def calculate_average_price(data):
 
 # Replace 'iPhone' with your search query
 data = search_ebay_sold_items('2015 Equinox hood')
-calculate_average_price(data)
+calculate_average_price(data) 
