@@ -1,0 +1,1 @@
+In the realm of online Consumer-to-Consumer (C2C) marketplaces, the illicit sale of stolen car parts is a significant issue. This project aims to use multimodal data (text, images, user data) to train machine learning models to detect and identify listings of stolen car parts, thus contributing to reducing online sales of stolen goods.
